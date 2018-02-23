@@ -41,8 +41,8 @@ This is the planning document for my Capstone project at Epicodus. I am planning
   - TabBar iOS
   - Toolbar
  Api's for device interaction
- - Camera Roll (this is a big deal)
+ - Camera Roll (this is a big deal
  - Vibration
 
 ##  React Native using create-react-native CLI
-I downloaded the command line interface because the the documentation and the
+I downloaded the command line interface because the documentation and learing to program suggested it was the best place to start. 
