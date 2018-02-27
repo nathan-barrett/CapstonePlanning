@@ -9,9 +9,9 @@ This is the planning document for my Capstone project at Epicodus. I am planning
 
 ## Planning Objectives:
 
-- [ ] Research more about React Native
+- [x] Research more about React Native
 
-- [ ] Break the UI into a Component Hierarchy
+- [x] Break the UI into a Component Hierarchy
 
 - [ ] Build a Static version the application
 
@@ -45,4 +45,8 @@ This is the planning document for my Capstone project at Epicodus. I am planning
  - Vibration
 
 ##  React Native using create-react-native CLI
-I downloaded the command line interface because the documentation and learing to program suggested it was the best place to start. 
+I downloaded the command line interface because the documentation and learing to program suggested it was the best place to start.
+
+I was working through different tutorials, and I decided on making my actual capstone using the react-native cli rather than the create-react-native-app cli, because I feel like I will have more control over the development build for my project.
+
+I've spent a few hours just going through the tutorials and looking over some documentation abut the different components in the react native frameowork.
